@@ -76,7 +76,7 @@ let imgItems=imageCarrier.getElementsByClassName('image');
 
 let imagesContents=[
     {
-        img:"/images/2.JPG"
+        img:"https://drive.google.com/file/d/10TD2JLSux-vqecf3j50J8VvMC1M_3HVY/view?usp=share_link"
     },
     {
         img:"/images/1.JPG"

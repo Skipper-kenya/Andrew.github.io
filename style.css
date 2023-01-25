@@ -884,7 +884,7 @@ a{
     background-color:rgb(12, 121, 184);
     height:var(--men-height,0px);
     overflow: hidden;
-    width: 550px;
+    width:80%;
     right: 0px;
     animation: var(--animate-menu);
     top: 51px;

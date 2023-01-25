@@ -76,22 +76,26 @@ let imgItems=imageCarrier.getElementsByClassName('image');
 
 let imagesContents=[
     {
-        img:"https://drive.google.com/file/d/10TD2JLSux-vqecf3j50J8VvMC1M_3HVY/view?usp=share_link"
+        img:"http://drive.google.com/uc?export=view&id=10TD2JLSux-vqecf3j50J8VvMC1M_3HVY"
+
     },
     {
-        img:"/images/1.JPG"
+       img:"http://drive.google.com/uc?export=view&id=1lBB7M1odmoklN92ICMeemyIEsFV7s-yy"
     },
     {
-        img:"/images/3.JPG"
+      img:"http://drive.google.com/uc?export=view&id=1_o0jYlcwO96u2w4O35Ia3b8GJbEVTlj5"
+    
     },
     {
-        img:"/images/4.JPG"
+       img:"http://drive.google.com/uc?export=view&id=1Gy16-edQYhihtmEiWpkLzsnnAIi8wAHh"
+    
     },
     {
-        img:"/images/5.JPG"
+        img:"http://drive.google.com/uc?export=view&id=1gDu9L8c3gs87mUzYVrjljk3Y8gpqWCgw"
+    
     },
     {
-        img:"/images/6.JPG"
+        img:"http://drive.google.com/uc?export=view&id=1Ncp5C8s1m7P9Ylquz_H8FJRvbYVFgIYu"
     },
     
 ];

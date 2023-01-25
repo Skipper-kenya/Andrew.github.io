@@ -481,31 +481,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*MY PROJECTS CONTAINER*/
 .my-projects-cont{
     margin-bottom: 3rem;
@@ -576,35 +551,6 @@
     background-color: rgb(113, 209, 16);
     transition: .5s;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -709,24 +655,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*CV CONTAINER*/
 
 
@@ -753,28 +681,6 @@
     background-color: rgb(113, 209, 16);
     transition: .5s;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -969,21 +875,6 @@ a{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*STYLING THE SECTION CONTAINING ABSOLUTE CONTAINERS PARTIES*/
 .folio-body{
     margin-top: 0px;
@@ -1005,11 +896,11 @@ a{
     --animate-menu:an-men 1s ease-in;
 }
 @keyframes an-men{
-    from{
-        transform: translateX(400px);
-    }
-    to{
-        transform: translateX(0px);
+    0%{
+      opacity:0;
+   }
+    100%{
+       opacity:1;
     }
 }
 

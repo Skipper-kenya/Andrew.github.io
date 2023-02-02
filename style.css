@@ -534,7 +534,7 @@
     padding: 1rem 3rem;
     overflow: hidden;
     border-radius: 10px;
-    height: 250px;
+    height: 280px;
     background-color:var(--ind-work-color);
 }
 .quote::before{

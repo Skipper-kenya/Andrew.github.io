@@ -529,9 +529,14 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+
+
+
+
 .ind-work{
     margin-top: 1rem;
-    padding: 1rem 3rem;
+    padding: 1rem 2rem;
     overflow: hidden;
     border-radius: 10px;
     height: 280px;
@@ -568,7 +573,7 @@
 }
 .ind-work a{
   text-decoration:none ;
-  font-size: 18px;
+  font-size: 16px;
   color: rgb(160, 94, 47);
   font-weight: bolder;
 }
